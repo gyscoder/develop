@@ -1,0 +1,12 @@
+.App-container {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: white;
+}
+
+
+
+.ajuste {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
