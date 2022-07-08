@@ -1,0 +1,19 @@
+-- navbar
+-- TaskItem
+(- Cada item da lista deve possuir as seguintes informações:
+* título (texto livre)
+* autor (texto livre)
+* data adicionado na lista (Data)
+* data de conclusão (Data)
+* nota (número inteiro)
+* status: 'quero ler', 'lendo', 'lido')
+-- task list
+
+Observação: uma nota só pode ser atribuída a livros que você terminou de ler.
+
+Sua tarefa é:
+- Permitir que livros sejam listados;
+- Permitir que livros sejam cadastrados;
+- Permitir que livros sejam removidos;
+- Permitir que o status de leitura do livro seja alterado;
+- Permitir que uma nota seja informada ao trocar o status para 'Lido';
